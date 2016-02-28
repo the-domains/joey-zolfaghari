@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-28T00:41:41.127Z'
-dateModified: '2016-02-21T07:15:12.043Z'
+datePublished: '2016-02-28T01:09:38.774Z'
+dateModified: '2016-02-28T01:09:07.584Z'
 title: Trail Blazers Social Graphics
 author: []
 sourcePath: _posts/2016-02-21-trail-blazers-game-graphics.md
@@ -23,9 +23,10 @@ _type: Article
 
 ---
 # Trail Blazers Social Graphics
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a79f21ce-9e7a-459f-a42a-6f5187b99e43.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc2762cf-3f3d-4c7f-8d1c-5c22d91a251c.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc9164ad-2e5f-4157-be85-9b349483f519.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d001420-2a64-4b53-bedb-966e277214df.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8cc321e-f374-4d1f-9574-f572127e53b8.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94ad9232-8d6c-4219-983a-b57ed62c8c28.png)
+
+Quarterly graphics were used as in-game content to update fans on social with a snapshot of each quarter.  I updated images, scores and wrote bitesize highlights. Think writing a Tweet on the fly is tricky? Try 50 characters in a two minute window. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d80e9379-1c02-4553-aec8-dff2567d2a57.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48c59cd3-f158-4d97-9167-d06c092e5bc6.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8de5c5c4-d95f-4ea8-b2dd-f0fd2f11d2a2.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2bd26d2-b485-44a2-a094-cc8faf4b6c85.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddbcc431-7cc7-4a67-8bbf-2f55b3e37c05.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa5a0713-b2ef-444e-b4e9-d2782b3f1bdc.png)
