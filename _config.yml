@@ -1,6 +1,6 @@
 name: Joey Zolfaghari
 favicon: null
-layout_spectrum: 0.74707
+layout_spectrum: 0.48832
 typography_spectrum: 0.5818
 title: Community Manager
 cta:
@@ -22,7 +22,7 @@ color:
     - '#000000'
     - '#c70813'
     - '#d95558'
-  brandStrength: 0.875
+  brandStrength: 0.8125
   lightness: 0.25
   saturation: 0.6875
   rhythmicContrast: 0.75
