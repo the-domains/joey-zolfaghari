@@ -1,29 +1,41 @@
-name: Joey Zolfaghari
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.5818
 title: Community Manager
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5448028
+  brandStrength: 1
+  lightness: 0.5573477
+  brandColors:
+    - '#010000'
+    - '#4A4B4D'
+    - '#914B53'
+    - '#FFFFFF'
+    - '#DF0B27'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Joey Zolfaghari
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#d3e7f9'
-    - '#4c87c3'
-    - '#374e3e'
-    - '#6a7656'
-  brandStrength: 1
-  lightness: 0.3125
-  saturation: 0.375
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.5818
+layout_spectrum: 0
